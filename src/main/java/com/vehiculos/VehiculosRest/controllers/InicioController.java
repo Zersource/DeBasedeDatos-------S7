@@ -5,8 +5,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Calendar;
 
--- CANBIO
-
 @RestController
 public class InicioController {
 
